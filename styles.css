@@ -15,6 +15,11 @@ body{
     background-color: antiquewhite;
 }
 
+.subtitle{
+    font-size: 35px;
+    color: rgb(150, 70, 70)
+}
+
 .link{
     font-size: 35px;
     background-color: aqua;
@@ -23,4 +28,21 @@ body{
 .image{
     width: 300px;
     height: auto;
+}
+
+.description{
+    font-size: 24px;
+}
+
+.ingredients,
+.directions{
+    font-size: 20px;
+}
+
+.ingredients{
+    background-color: azure;
+}
+
+.directions{
+    background-color: beige;
 }
